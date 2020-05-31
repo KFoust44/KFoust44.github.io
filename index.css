@@ -1,0 +1,21 @@
+body {
+  background: teal;
+}
+p {
+  color: rebeccapurple;
+}
+h1 {
+  font-weight: bold;
+  color:rebeccapurple;
+}
+h5 {
+  color:rebeccapurple;
+}
+img{
+  border-style:dashed;
+  border-radius: 100px
+}
+.font {
+  font-family:fantasy;
+  color:rgb(210, 220, 130 );
+}
