@@ -18,16 +18,20 @@ h5 {
 .intro {
   width: 500px;
 }
-div { 
-  height: 96px;
-  width: 160px;
-  border-color:black;
-  border-style: solid;
-  float:left
+
 }
 .order{
   text-align:center;
   height: 20px;
   width:160px;
   float:left;
+  border-color:black;
+  border-style: solid;
+}
+.image{
+  position:relative;
+  height: 96px;
+  width: 160px;
+  border-color:black;
+  border-style: solid;
 }
