@@ -28,4 +28,5 @@ div {
   text-align:center;
   height: 20px;
   width:160px;
+  float:left;
 }
