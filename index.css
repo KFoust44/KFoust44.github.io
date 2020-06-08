@@ -18,7 +18,9 @@ h5 {
 .intro {
   width: 500px;
 }
-div {
+div { 
+  height: 100px;
+  width: 100px;
   border-color:black;
   border-style: solid;
 }
