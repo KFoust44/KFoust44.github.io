@@ -19,12 +19,14 @@ h5 {
   width: 500px;
 }
 div.order{
-  text-align:center;
+  text-align: center;
+  text-color: red;
   height: 114px;
   width:160px;
   float:left;
-  border-color:black;
+  border-color: yellow;
   border-style: solid;
+  background: black;
 }
 .image{
   position:relative;
