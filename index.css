@@ -26,5 +26,6 @@ div {
 }
 .order{
   text-align:center;
-  
+  height: 20px;
+  width:100px;
 }
