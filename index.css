@@ -1,5 +1,5 @@
 body {
-  background: "Yett.jpg";
+  background-image: url("Yett.jpg");
 }
 p {
   color: black;
