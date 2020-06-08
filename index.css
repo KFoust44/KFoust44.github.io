@@ -32,6 +32,5 @@ div.order{
   position:relative;
 }
 hr {
-  color:black;
-  border:5px;
+  border:5px solid black;
 }
