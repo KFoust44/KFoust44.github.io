@@ -23,6 +23,7 @@ div {
   width: 160px;
   border-color:black;
   border-style: solid;
+  float:left
 }
 .order{
   text-align:center;
