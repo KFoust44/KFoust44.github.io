@@ -31,10 +31,6 @@ div.order{
 .image{
   position:relative;
 }
-hr {
-  border: 3px solid black;
-  margin: 0;
-}
 h4{
   font-family:"lucida console";
   font-size: 20px;
@@ -44,8 +40,6 @@ ul.header{
   list-style-type: none;
   background-color: yellow;
   text-decoration: none;
-  border-style:solid;
-  border-color:black;
   padding:10px;
   margin:0;
   margin-inline-start: 0px;
