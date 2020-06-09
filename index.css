@@ -51,13 +51,13 @@ ul.header{
   margin-inline-start: 0px;
   overflow: hidden;
 }
-li.{
+li.yeet{
   display:inline;
   padding: 10px;
   margin:0;
   color:black;
 }
-li.:hover{
+li.yeet:hover{
   background-color: purple;
 }
 .current{
