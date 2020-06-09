@@ -47,10 +47,11 @@ ul.header{
   border-style:solid;
   border-color:black;
   padding:10px;
+  margin:0;
 }
 li.yeet{
   display:inline;
-  padding: 8px;
+  padding: 10px;
   border-style:solid;
   border-color: black;
 }
