@@ -40,7 +40,7 @@ h4{
   font-size: 20px;
   text-decoration: underline;
 }
-ul header{
+ul.header{
   list-style-type: none;
   background-color: yellow;
   text-decoration: none;
@@ -51,13 +51,13 @@ ul header{
   margin-inline-start: 0px;
   overflow: hidden;
 }
-li yeet{
+li.yeet{
   display:inline;
   padding: 10px;
   margin:0;
   color:black;
 }
-li yeet:hover{
+li.yeet:hover{
   background-color: purple;
 }
 .current{
