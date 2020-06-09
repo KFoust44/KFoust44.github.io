@@ -47,13 +47,11 @@ ul.header{
   overflow: hidden;
 }
 li.yeet{
-  display:inline;
   padding: 10px;
   margin:0;
   display: block;
   color: black;
   float:left;
-  text-decoration: none;
   font-family: Impact;
   
 }
