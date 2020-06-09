@@ -58,7 +58,7 @@ li.yeet{
   
 }
 li.yeet:hover{
-  background-color: purple;
+  background-color: rgb(51, 255, 255);
 }
 .current{
   background-color:red;
