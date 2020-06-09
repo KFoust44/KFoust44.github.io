@@ -55,4 +55,5 @@ li.yeet{
   border-style:solid;
   border-color: black;
   margin:0;
+  margin-inline-start: 0px;
 }
