@@ -44,6 +44,8 @@ ul.header{
   list-style-type: none;
   background-color: yellow;
   text-decoration: none;
+  border-style:solid;
+  border-color:black;
 }
 li.yeet{
   display:inline;
