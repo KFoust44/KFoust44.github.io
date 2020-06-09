@@ -46,9 +46,9 @@ ul.header{
   text-decoration: none;
   border-style:solid;
   border-color:black;
+  padding:10px;
 }
 li.yeet{
   display:inline;
-  padding:10px;
   margin:2px;
 }
