@@ -38,5 +38,6 @@ hr {
 h4{
   font-family:"lucida console";
   font-size: 20px;
-  border-style: 20px solid black;
+  border-style: solid;
+  border-color: black;
 }
