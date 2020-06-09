@@ -42,11 +42,11 @@ h4{
 }
 ul.header{
   list-style-type: none;
+  background-color: yellow;
 }
 li.yeet{
   display:inline;
   padding:10px;
   margin:2px;
-  background-color: yellow;
   text-decoration: none;
 }
