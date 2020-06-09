@@ -52,6 +52,7 @@ li.yeet{
   margin:0;
   display: block;
   color: black;
+  float:left;
   text-decoration: none;
   font-family: Impact;
   
